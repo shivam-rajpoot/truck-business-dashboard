@@ -71,5 +71,5 @@ Secure, persistent, and mobile-friendly dashboard for real-world truck business 
    ```text
 streamlit
 pandas
-passlib[bcrypt]
+passlib
 openpyxl
