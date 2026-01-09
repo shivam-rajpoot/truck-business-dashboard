@@ -59,16 +59,16 @@ Secure, persistent, and mobile-friendly dashboard for real-world truck business 
    ```text
    Repo Name: truck-business-dashboard
 2.  Add files:
+    ```text
      app.py (main code)
-   requirements.txt
-3.Go to Streamlit Cloud
-4.Connect GitHub repository
+     requirements.txt
+3. Go to Streamlit Cloud
+4. Connect GitHub repository
 5. Select app.py as main file and deploy
 6. Open the app URL on desktop or mobile
 
 📦 Requirements
-Txt
 streamlit
 pandas
 passlib[bcrypt]
-openpyxl 
+openpyxl
