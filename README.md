@@ -67,7 +67,8 @@ Secure, persistent, and mobile-friendly dashboard for real-world truck business 
 5. Select app.py as main file and deploy
 6. Open the app URL on desktop or mobile
 
-📦 Requirements
+📦 Requirements.txt
+   ```text
 streamlit
 pandas
 passlib[bcrypt]
