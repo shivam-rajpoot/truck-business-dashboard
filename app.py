@@ -9,7 +9,7 @@ from passlib.context import CryptContext
 # =====================================================
 st.set_page_config(page_title="Truck Business Dashboard", layout="wide")
 DB_NAME = "truck_business.db"
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+pwd_context = CryptContext(schemes=["pbkdf2_sha256"], deprecated="auto")
 
 # =====================================================
 # DATABASE
